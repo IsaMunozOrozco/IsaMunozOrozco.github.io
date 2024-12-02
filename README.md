@@ -1,6 +1,3 @@
-# IsaMunozOrozco.github.io
-# Aspiring Movement Scientist
-
 ### Education
 Kinesiology, B.S. 
 Movement Science, PhD (LOADING)
