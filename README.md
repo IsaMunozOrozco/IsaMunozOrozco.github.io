@@ -1,6 +1,6 @@
 Hello! I'm Isabel, a PhD student in Movement Science at the University of Michigan. I am interested in studying balance, gait, and locomotion with the goal of maintaining and enhancing mobility, independence, and overall quality of life, particularly in adults with neurodevelopmental conditions, using concepts from biomechanics, motor control, and behavioral psychology.
 
-This page serves to document my progress as I grow into an aspiring movement scientist. While I am still developing many technical skills, I am committed and excited to continuously learn and improve.
+This page serves to document my progress as I grow into a movement scientist. While I am still developing many technical skills, I am committed and excited to continuously learn and improve.
 
 
 > Learning will never quench our thirst for knowledge, but utilizing the knowledge we have gained through learning will satisfy our hearts. 
