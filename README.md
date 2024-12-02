@@ -9,6 +9,7 @@ Undergraduate Research Assistant
 - description here
 
 ### Projects
-Founder, @college_nest[https://www.instagram.com/college_nest/profilecard/?igsh=OHQ4cDNiMjEx-Z3lh](url)
+Founder, College Nest
+[@collegenest](https://www.instagram.com/college_nest/profilecard/?igsh=OHQ4cDNiMjEx-Z3lh)
 
 ### Publications
