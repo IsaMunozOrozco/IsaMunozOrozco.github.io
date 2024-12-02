@@ -10,7 +10,7 @@ This page serves to document my progress as I grow into a movement scientist. Wh
 - Movement Science, PhD (LOADING)
 
 ### Research Experience
-**Graduate Research Assistant**
+_**Graduate Research Assistant**_
 
 Motor and Visual Development Lab, School of Kinesiology, University of Michigan
 
@@ -18,7 +18,7 @@ Motor and Visual Development Lab, School of Kinesiology, University of Michigan
 - Administration of motor and cognitive standardized assessments
 - Participant recruitment and scheduling
 
-**Undergraduate Research Assistant**
+_**Undergraduate Research Assistant**_
 
 Gait Rehabilitation and Motor Learning Lab/Locomotor Control Lab, University of Southern California 
 
@@ -26,14 +26,14 @@ Gait Rehabilitation and Motor Learning Lab/Locomotor Control Lab, University of 
 - Administration of motor and cognitive standardized assessments  
 - Participant recruitment and scheduling  
 
-**Undergraduate Research Assistant**
+_**Undergraduate Research Assistant**_
 
 Laboratory for Evaluating Athletic and Aesthetic Performance, California State University - Northridge
 
 - Research comparing the skipping kinematics and kinetics of autistic and neurotypical college students
 - Quantitative motion capture data collection and processing of autistic young adults, dancers, and athletes 
 
-**Summer Research Intern**
+_**Summer Research Intern**_
 
 Northwestern University
 
