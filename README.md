@@ -5,11 +5,11 @@ This page serves to document my progress as I grow into a movement scientist. Wh
 
 > Learning will never quench our thirst for knowledge, but utilizing the knowledge we have gained through learning will satisfy our hearts. 
 
-### Education
+### EDUCATION
 - Kinesiology, B.S. 
 - Movement Science, PhD (LOADING)
 
-### Research Experience
+### RESEARCH EXPERIENCE 
 _**Graduate Research Assistant**_
 
 Motor and Visual Development Lab, School of Kinesiology, University of Michigan
@@ -40,13 +40,13 @@ Northwestern University
 - Qualitative approaches (thematic analysis) to exercise intervention development and translating exercise programs from the research lab to community
 - Moderating an evidence-based exercise program for older adults (Bingocize) 
 
-### Projects
+### PROJECTS
 Founder, College Nest
 [@collegenest](https://www.instagram.com/college_nest/profilecard/?igsh=OHQ4cDNiMjEx-Z3lh)
 
-### Publications
+### PUBLICATIONS
 - Panda, R., Deluisi, J., Lee, T., Davis, S., **Muñoz-Orozco, I.**, Albin, R., & Vesia, M. (2024, August). Improving Efficacy of Repetitive Transcranial Magnetic Stimulation for Treatment of Parkinson Disease Gait Disorders. Frontiers in Human Neuroscience Section Motor Neuroscience, 18. [https://doi.org/10.3389/fnhum.2024.1445595](https://doi.org/10.3389/fnhum.2024.1445595) 
 - **Munoz Orozco, I.**, Hernandez, K., Mata, J., Todd, T. A., Mache, M. A., & Jarvis, D. N. (2023, August). Evaluation of Skipping in College Students with and without Autism Spectrum Disorder. Perceptual and Motor Skills, 130(5), 2015–2030. [https://doi.org/10.1177/00315125231194342](https://doi.org/10.1177/00315125231194342) 
 
-### Stay Connected
-[![linkedin-logo](/assets/images/linkedin-icon_square_32x32.png)](www.linkedin.com/in/isabel-munozorozco)
+### STAY CONNECTED
+[![linkedin-logo](/assets/images/linkedin-icon_square_32x32.png)](https://www.linkedin.com/in/isabel-munozorozco)
