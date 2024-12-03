@@ -49,4 +49,4 @@ Founder, College Nest
 - **Munoz Orozco, I.**, Hernandez, K., Mata, J., Todd, T. A., Mache, M. A., & Jarvis, D. N. (2023, August). Evaluation of Skipping in College Students with and without Autism Spectrum Disorder. Perceptual and Motor Skills, 130(5), 2015–2030. [https://doi.org/10.1177/00315125231194342](https://doi.org/10.1177/00315125231194342) 
 
 ### Stay Connected
-social coming soon
+[![linkedin-logo](/assets/images/linkedin-icon_square_32x32.png)](www.linkedin.com/in/isabel-munozorozco)
